@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "name": "Pasta de dientes",
+  "size": 0,
+  "description": "lavar",
+  "price": 150.0,
+  "registrationDate": "2023-12-29",
+  "dangerous": false,
+  "orders": []
+}

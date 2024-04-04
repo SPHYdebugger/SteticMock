@@ -1,0 +1,109 @@
+[
+  {
+    "id": 2,
+    "name": "Pasta de dientes",
+    "size": 0,
+    "description": "lavar",
+    "price": 150.0,
+    "registrationDate": "2023-12-29",
+    "dangerous": false,
+    "orders": []
+  },
+  {
+    "id": 45,
+    "name": "cepillo pelo",
+    "size": 0,
+    "description": "para peinarse",
+    "price": 5.0,
+    "registrationDate": "2024-01-02",
+    "dangerous": false,
+    "orders": [
+      {
+        "id": 2,
+        "number": "cb3d0fb6-4a12-4347-8d41-4fda57205e20",
+        "onlineOrder": true,
+        "creationDate": "2024-01-20"
+      },
+      {
+        "id": 7,
+        "number": "bd563de2-e3c1-43ba-ab6f-3e92edda9618",
+        "onlineOrder": true,
+        "creationDate": "2024-01-31"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Serum",
+    "size": 0,
+    "description": "para hidratar la cara",
+    "price": 2.0,
+    "registrationDate": "2024-01-03",
+    "dangerous": false,
+    "orders": [
+      {
+        "id": 3,
+        "number": "213af9b6-87b0-4d28-9af7-3a63db100598",
+        "onlineOrder": true,
+        "creationDate": "2024-01-20"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Exfoliante",
+    "size": 0,
+    "description": "Para exfoliar",
+    "price": 100.0,
+    "registrationDate": "2024-01-03",
+    "dangerous": false,
+    "orders": [
+      {
+        "id": 3,
+        "number": "213af9b6-87b0-4d28-9af7-3a63db100598",
+        "onlineOrder": true,
+        "creationDate": "2024-01-20"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "cepillo cabeza",
+    "size": 10,
+    "description": "para peinarse",
+    "price": 5.0,
+    "registrationDate": "2024-01-03",
+    "dangerous": true,
+    "orders": []
+  },
+  {
+    "id": 108,
+    "name": "jsjsjj",
+    "size": 0,
+    "description": "ns",
+    "price": 67.0,
+    "registrationDate": "2024-01-24",
+    "dangerous": false,
+    "orders": []
+  },
+  {
+    "id": 109,
+    "name": "hhhhh",
+    "size": 0,
+    "description": "nzndnd",
+    "price": 5.0,
+    "registrationDate": "2024-01-31",
+    "dangerous": false,
+    "orders": []
+  },
+  {
+    "id": 110,
+    "name": "Crema corporal",
+    "size": 110,
+    "description": "crema para la cara",
+    "price": 15.0,
+    "registrationDate": "2024-01-31",
+    "dangerous": false,
+    "orders": []
+  }
+]
