@@ -1,0 +1,13 @@
+{
+  "id": 3,
+  "firstname": "mari",
+  "lastname": "trigo",
+  "dni": "838383838H",
+  "city": "Coruña",
+  "street": null,
+  "numHouse": 0,
+  "age": 0,
+  "height": 0.0,
+  "birthday": null,
+  "vip": true
+}

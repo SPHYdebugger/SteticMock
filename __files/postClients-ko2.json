@@ -1,0 +1,4 @@
+{
+  "code": 400,
+  "message": "Validation Error: 'firstname' field is required"
+}
