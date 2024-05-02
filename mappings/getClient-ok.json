@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/client/3"
+  },
+  "response": {
+    "status": 200,
+    "headers":{
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "getClient-ok.json"
+  }
+}

@@ -2,13 +2,13 @@
   "priority": 2,
   "request": {
     "method": "POST",
-    "url": "/products"
+    "url": "/clients"
   },
   "response": {
     "status": 201,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "postProducts-ok.json"
+    "bodyFileName": "postClients-ok.json"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "PUT",
+    "url": "/clients/125"
+  },
+  "response": {
+    "status": 404,
+    "headers":{
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "clientNotFound.json"
+  }
+}

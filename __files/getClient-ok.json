@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "firstname": "mari",
+  "lastname": "trigo",
+  "dni": "838383838H",
+  "city": "Coruña",
+  "street": null,
+  "numHouse": 0,
+  "age": 0,
+  "height": 0.0,
+  "birthday": null,
+  "orders": [
+    {
+      "id": 2,
+      "number": "cb3d0fb6-4a12-4347-8d41-4fda57205e20",
+      "onlineOrder": true,
+      "creationDate": "2024-01-20"
+    }
+  ],
+  "vip": true
+}
